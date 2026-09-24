@@ -1,0 +1,28 @@
+{
+  "life_history": "Miguel is an employed male who presented to the clinic to seek treatment for migraines. He currently injects heroin into his left arm several times a week. He lives with a housemate and maintains employment, though he has occasionally been late or overslept due to drug use. His heroin use is largely driven by a need to self-medicate underlying anxiety and depression, as well as to stave off severe physical and emotional withdrawal symptoms that begin after 2-3 days of abstinence. He is highly motivated to avoid overdose and infections, showing strong readiness for harm-reduction strategies.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am helpless, I am trapped, I am powerless, weak, vulnerable",
+  "intermediate_beliefs": "Positive assumption: If I engage in using heroin, then I can cope/relax, function at work, and my anxiety and depression will go away; negative assumption: If I stop using heroin, then the distress, extreme emotions, and severe physical withdrawal sickness will overwhelm me.",
+  "intermediate_beliefs_during_depression": "If I try to endure the withdrawal without drugs, the physical sickness and emotional extremes will be intolerable, proving I am too weak to handle life stressors naturally.",
+  "coping_strategies": "Maladaptive coping includes regular heroin injection to self-medicate depression and anxiety, function at work, and escape withdrawal sickness. Adaptive and harm-reduction coping includes seeking medical help for migraines, exclusively using new needles from pharmacies or needle exchanges, maintaining a supply of Narcan at home, planning to inform his housemate about the Narcan in case of overdose, and requesting educational materials on safe injection techniques to prevent infections.",
+  "cognitive_models": [
+    {
+      "situation": "Experiencing the onset of physical withdrawal symptoms such as body aches, chills, and stomach sickness after 2 to 3 days without heroin.",
+      "automatic_thoughts": "Everything hurts and my emotions are in extremes. It sucks. I just want to avoid getting sick right now. I need to get loaded so I can function.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Injects heroin to relieve the physical withdrawal symptoms and emotional extremes."
+    },
+    {
+      "situation": "Facing daily life demands and work responsibilities while experiencing underlying anxiety and depression.",
+      "automatic_thoughts": "Things are making life really difficult right now. If I shoot up, my anxiety goes away, my depression goes away, and things get a lot easier. I can function and do normal things.",
+      "emotion": "sad/down/lonely/unhappy",
+      "behavior": "Injects heroin to self-medicate the mood symptoms before going to work."
+    },
+    {
+      "situation": "Struggling to find a vein while injecting heroin and having to dig around with the needle in his left arm.",
+      "automatic_thoughts": "I have a hard time hitting veins. I am worried about hitting something I shouldn't and getting a bad infection in my arm. What if I accidentally overdose?",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Continues injecting but actively engages in harm reduction by using new needles, securing Narcan, and seeking safe injection education."
+    }
+  ]
+}

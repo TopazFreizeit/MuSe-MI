@@ -1,0 +1,7 @@
+- input_dataset.name=MIV6.3A
+- input_dataset.subset=manual
+- annotated.model=google/gemma-4-31b-it
+- skip_counsellor=True
+- annotated.context_mode=interval
+- annotated.num_context_turns=1
+- method=IRR

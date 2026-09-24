@@ -1,0 +1,28 @@
+{
+  "life_history": "Mrs. Smith is an older female patient currently residing in an inpatient rehabilitation facility recovering from a recent stroke. Prior to the stroke, she describes herself as a 'very independent person' who enjoyed cooking for herself and playing with her dog. The sudden loss of independence and transition to a rehab facility has been a significant stressor. She presents with low self-efficacy (score: 2.0) and medium motivational readiness. Her primary presenting issue is avoiding physical activity and rehabilitation exercises due to experiencing significant joint pain, particularly in her knees. The precipitant for counseling is her slow progress in rehab and her reluctance to engage in the necessary physical therapy required to achieve her goal of returning home safely.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am helpless, I am trapped, I am powerless, weak, vulnerable",
+  "intermediate_beliefs": "Positive assumption: If I avoid painful rehab exercises, then I can protect my joints and prevent further suffering; negative assumption: If I stop avoiding activity and push myself in rehab, then the pain will overwhelm me and I will cause more damage to my body.",
+  "intermediate_beliefs_during_depression": "If I try a new activity like Tai Chi while still relying on a walker and fail, it proves that I am permanently disabled and will never be able to go home and regain my independence.",
+  "coping_strategies": "Maladaptive coping includes avoiding prescribed physical activities, displaying resistance by questioning the medical necessity of the rehab exercises ('is it really necessary?'), and focusing heavily on physical limitations (e.g., relying on her walker) to dismiss new interventions. Adaptive coping includes anchoring her motivation to highly valued personal goals (returning home, cooking, playing with her dog) and eventually displaying a willingness to try harm-reduction modifications, such as agreeing to try seated Tai Chi to safely build balance.",
+  "cognitive_models": [
+    {
+      "situation": "Being instructed by rehab staff to use leg machines for physical therapy.",
+      "automatic_thoughts": "It hurts. Just about every joint hurts, especially my knees. Is doing these leg things really necessary? I can't take this pain.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Avoiding activity, complaining about the pain, and questioning the necessity of the exercises."
+    },
+    {
+      "situation": "Reflecting on her current living situation in the rehabilitation facility.",
+      "automatic_thoughts": "Things are going kind of slow. I miss my dog. I am a very independent person and I should be doing things for myself, but instead I'm stuck here.",
+      "emotion": "sad/down/lonely/unhappy",
+      "behavior": "Sighing, displaying low energy, and ruminating on her loss of independence."
+    },
+    {
+      "situation": "The counselor suggests trying Tai Chi to improve balance and prevent falls.",
+      "automatic_thoughts": "I don't see how I could do it. I'm still in a walker. My body is too weak and unsteady for me to do an exercise class.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Expressing immediate doubt, utilizing sustain talk by pointing out her walker as a barrier to change."
+    }
+  ]
+}

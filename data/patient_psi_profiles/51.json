@@ -1,0 +1,28 @@
+{
+  "life_history": "The client is a young, healthy individual who is currently avoiding the flu vaccine. They maintain a close relationship with their living grandparents and work alongside a pregnant co-worker. The precipitant to this counseling session is a routine medical discussion where the client initially exhibits low problem recognition and low motivational readiness, believing that because they are young and healthy, they do not need preventative medical care like a flu shot.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am powerless, weak, vulnerable",
+  "intermediate_beliefs": "Positive assumption: If I avoid the flu vaccine and rely on my youth, then I can maintain my sense of invulnerability and avoid medical hassle; negative assumption: If I stop avoiding the vaccine and admit I need it, then it means I am physically vulnerable to illness.",
+  "intermediate_beliefs_during_depression": "If I accidentally get my grandparents or pregnant co-worker sick, it proves that I am careless and my actions are a danger to the people I love.",
+  "coping_strategies": "Maladaptive coping includes avoiding preventative medical care and downplaying health risks by rationalizing that the flu shot is only for older, sicker people. Adaptive coping demonstrated in the session includes utilizing empathy and altruism, shifting focus to the well-being of vulnerable loved ones (grandparents, pregnant co-worker) to motivate positive behavioral change.",
+  "cognitive_models": [
+    {
+      "situation": "Being asked about their knowledge and willingness to get the flu shot at the beginning of the consultation.",
+      "automatic_thoughts": "I'm in pretty good health, so I don't really feel like I need it. It's kind of just more for old people, right?",
+      "emotion": "angry/mad/irritated/annoyed",
+      "behavior": "Downplaying the medical necessity and sustaining the choice to avoid the flu vaccine."
+    },
+    {
+      "situation": "Listening to the counselor explain that the elderly, pregnant people, and babies are at risk of serious complications from the flu.",
+      "automatic_thoughts": "My grandparents probably wouldn't handle the flu very well and my co-worker is pregnant too.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Engaging attentively, reconsidering their stance, and connecting the medical information to their own life."
+    },
+    {
+      "situation": "Realizing that avoiding the vaccine could result in passing a severe illness to their vulnerable family members and colleagues.",
+      "automatic_thoughts": "I guess I should get it for their sake, to protect them.",
+      "emotion": "guilty",
+      "behavior": "Expressing change talk, deciding to get the flu vaccine, and shifting from precontemplation to contemplation."
+    }
+  ]
+}

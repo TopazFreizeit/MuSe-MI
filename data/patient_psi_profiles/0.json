@@ -1,0 +1,28 @@
+{
+  "life_history": "The patient is an adult female presenting for a routine annual assessment. She has a comorbid diagnosis of depression. During the screening, it was identified that she drinks alcohol at least four times a week, consuming 3 to 4 drinks (and occasionally an entire bottle) per occasion, totaling 12 or more drinks weekly. She uses alcohol primarily at home to self-medicate her depressive symptoms and unwind. The precipitant for the current counseling intervention was her annual screening form, which prompted the counselor to discuss the health risks of alcohol, particularly its exacerbating effect on depression.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am out of control",
+  "intermediate_beliefs": "Positive assumption: If I drink alcohol, then I can unwind, relax, and make things feel more interesting; negative assumption: If I stop drinking, then my depression will return, and my life will remain an unbearable 'blur'.",
+  "intermediate_beliefs_during_depression": "When my depression worsens and everything feels like a blur, I cannot tolerate the emotional numbness on my own; if I try to cope without wine, the depression will overwhelm me.",
+  "coping_strategies": "Maladaptive coping includes drinking 3-4 glasses of wine (and occasionally binge drinking an entire bottle) while watching movies or taking a bath to self-medicate her depression and escape emotional numbness. Adaptive and harm-reduction coping plans discussed in-session include setting a strict goal of cutting back to two drinks a night, keeping less wine in the house to remove temptation, and engaging in alternative relaxation behaviors such as reading a book or taking a hot bath without alcohol.",
+  "cognitive_models": [
+    {
+      "situation": "Feeling down at home and experiencing life as a dull 'blur' due to depression.",
+      "automatic_thoughts": "Everything is so blur right now. If I have some wine, it will make things more interesting and I won't feel so down.",
+      "emotion": "sad/down/lonely/unhappy",
+      "behavior": "Drinking alcohol to self-medicate the depressive symptoms."
+    },
+    {
+      "situation": "Trying to unwind in the evening by taking a bath or watching a movie.",
+      "automatic_thoughts": "I need a few glasses of wine to properly relax and enjoy my evening routine.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Consuming 3 to 4 glasses of wine during the evening."
+    },
+    {
+      "situation": "Realizing she drank an entire bottle of wine the previous night and feeling the depression return.",
+      "automatic_thoughts": "I drank more than I intended to again. I am not proud of finishing a bottle. I just don't like the amount I'm drinking, and now I feel worse.",
+      "emotion": "guilty",
+      "behavior": "Self-criticism, experiencing a return of the 'blur' feeling, and subsequently reporting a high readiness (8/10) to change her drinking habits."
+    }
+  ]
+}

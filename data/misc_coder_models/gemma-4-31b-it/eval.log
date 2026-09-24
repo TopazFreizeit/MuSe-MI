@@ -1,0 +1,59 @@
+[2026-05-19 23:21:32,544][hydra.utils][INFO] - Starting AutoMISC evals with configuration:
+method: IRR
+input_dataset:
+  name: MIV6.3A
+  subset: manual
+n_conversations: 10
+annotated:
+  model: google/gemma-4-31b-it
+  context_mode: interval
+  num_context_turns: 1
+  class_structure: tiered
+  temperature: 0.0
+skip_counsellor: true
+
+[2026-05-19 23:21:32,544][hydra.utils][INFO] - AutoMISC annotations path: data/annotated/MIV6.3A_manual_tiered_gemma-4-31b-it_interval_1_annotated.csv
+[2026-05-19 23:21:32,565][hydra.utils][INFO] - Z-score: 20.899491447570423
+[2026-05-19 23:21:32,565][hydra.utils][INFO] - Cohen's Kappa (T1 Client Codes): 0.76
+[2026-05-19 23:21:32,565][hydra.utils][INFO] - Manual Cohen's Kappa (T1 Client): 0.76
+[2026-05-19 23:21:32,565][hydra.utils][INFO] - Asymptotic Variance (T1 Client): 0.0013318518003225782
+[2026-05-19 23:21:32,565][hydra.utils][INFO] - P-value (T1 Client): 0.000000000000000e+00
+[2026-05-19 23:21:32,566][hydra.utils][INFO] - Total Correct Predictions (Client): 205
+[2026-05-19 23:21:32,566][hydra.utils][INFO] - Total Correct Predictions (Client): 205 / 241 = 85.06%
+[2026-05-19 23:21:33,002][hydra.utils][INFO] - 
+              precision    recall  f1-score     support
+C              0.774194  0.986301  0.867470   73.000000
+S              0.804348  0.860465  0.831461   43.000000
+N              0.941176  0.768000  0.845815  125.000000
+accuracy       0.850622  0.850622  0.850622    0.850622
+macro avg      0.839906  0.871589  0.848249  241.000000
+weighted avg   0.866183  0.850622  0.849813  241.000000
+[2026-05-19 23:21:33,017][hydra.utils][INFO] - Z-score: 17.07407118214237
+[2026-05-19 23:21:33,017][hydra.utils][INFO] - Cohen's Kappa (T2 Client Codes): 0.63
+[2026-05-19 23:21:33,017][hydra.utils][INFO] - Manual Cohen's Kappa (T2 Client): 0.63
+[2026-05-19 23:21:33,017][hydra.utils][INFO] - Asymptotic Variance (T2 Client): 0.001347175643062644
+[2026-05-19 23:21:33,017][hydra.utils][INFO] - P-value (T2 Client): 0.000000000000000e+00
+[2026-05-19 23:21:33,018][hydra.utils][INFO] - Total Correct Predictions (Client): 174
+[2026-05-19 23:21:33,018][hydra.utils][INFO] - Total Correct Predictions (Client): 174 / 241 = 72.20%
+[2026-05-19 23:21:33,191][hydra.utils][INFO] - 
+              precision    recall  f1-score     support
+TS-            0.000000  0.000000  0.000000    0.000000
+AC-            0.000000  0.000000  0.000000    1.000000
+C-             0.000000  0.000000  0.000000    0.000000
+N-             0.666667  1.000000  0.800000    2.000000
+R-             0.700000  0.560000  0.622222   25.000000
+AB-            0.777778  0.700000  0.736842   10.000000
+D-             0.333333  0.600000  0.428571    5.000000
+O-             0.000000  0.000000  0.000000    0.000000
+N              0.941176  0.768000  0.845815  125.000000
+O+             0.312500  0.500000  0.384615   10.000000
+D+             0.615385  0.888889  0.727273    9.000000
+AB+            1.000000  0.333333  0.500000    3.000000
+R+             0.923077  0.750000  0.827586   32.000000
+N+             0.000000  0.000000  0.000000    0.000000
+C+             0.750000  0.500000  0.600000    6.000000
+AC+            0.346154  0.818182  0.486486   11.000000
+TS+            0.333333  1.000000  0.500000    2.000000
+accuracy       0.721992  0.721992  0.721992    0.721992
+macro avg      0.452906  0.495200  0.438789  241.000000
+weighted avg   0.813698  0.721992  0.749873  241.000000

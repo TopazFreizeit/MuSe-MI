@@ -1,0 +1,28 @@
+{
+  "life_history": "Hailey is a mother to an infant son, Jake, who is currently sick with a cold. She was previously an ex-smoker but relapsed last week during a night out with friends while her mother babysat. She feels overwhelmed with her parenting duties and a full daily schedule. Her low self-efficacy and high stress levels precipitated the recent relapse, leading to a brief motivational intervention during her son's medical visit.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am helpless",
+  "intermediate_beliefs": "Positive assumption: If I drink wine and smoke at night, then I can finally unwind and cope with my stressful days; negative assumption: If I stop smoking and drinking, then the overwhelm of parenting and daily life will be too much to handle.",
+  "intermediate_beliefs_during_depression": "If I try to change my habits and fail, it proves I have no willpower and am completely powerless over my stress and cravings.",
+  "coping_strategies": "Maladaptive coping includes drinking multiple glasses of wine and smoking cigarettes at night to manage stress, and isolating her smoking behavior to alleviate guilt about secondhand exposure. Adaptive coping includes agreeing to a short-term harm-reduction plan to smoke outside while her son is sick, attempting to reduce wine intake to one glass per night to avoid morning grogginess, and showing openness to joining a mothers' support group.",
+  "cognitive_models": [
+    {
+      "situation": "Friends went outside to smoke while celebrating a birthday on a Friday night.",
+      "automatic_thoughts": "Everyone is going outside. I want to join them and have a cigarette just this once to celebrate.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Joined her friends outside and smoked, breaking her abstinence."
+    },
+    {
+      "situation": "Putting Jake to bed at the end of a busy, overwhelming day.",
+      "automatic_thoughts": "My days are pretty full and I feel overwhelmed. I need to open up a bottle of wine and have a cigarette so I'm finally able to unwind.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Poured multiple glasses of wine and engaged in smoking to cope."
+    },
+    {
+      "situation": "Waking up in the morning after having a couple of glasses of wine and a cigarette the night before.",
+      "automatic_thoughts": "I feel tired and groggy. I feel so bad about smoking and I don't want to expose Jake to secondhand smoke.",
+      "emotion": "guilty",
+      "behavior": "Actively avoided Jake, his clothes, and his toys while smoking to minimize exposure and alleviate guilt."
+    }
+  ]
+}

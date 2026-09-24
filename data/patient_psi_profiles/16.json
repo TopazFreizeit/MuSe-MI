@@ -1,0 +1,28 @@
+{
+  "life_history": "Rick is a father currently facing severe child custody consequences due to his alcohol consumption. He has a low self-efficacy score (2.0) regarding his ability to change, coupled with medium problem recognition. He currently lives with his flatmate Tristan, a living arrangement that provides him with a sense of autonomy but lacks the support necessary for his sobriety and changing responsibilities. The imminent threat of losing custody of his children has precipitated his engagement in counseling to explore moving in with his supportive whānau (aunt and uncle), though he struggles with the fear of losing his independence.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am trapped",
+  "intermediate_beliefs": "Positive assumption: If I avoid moving in with my family and stay with my flatmate, then I can maintain my freedom and stay in charge; negative assumption: If I stop living independently and accept family support, then they will take over my life and I will lose my autonomy.",
+  "intermediate_beliefs_during_depression": "If I try to change my life by moving in with family, they will inevitably control everything I do, proving that I am incapable of managing my own life and leaving me completely trapped.",
+  "coping_strategies": "Maladaptive coping strategies include drinking alcohol and avoiding family support to maintain a false sense of independence and control. Adaptive coping attempts include attending counseling, openly discussing the pros and cons of his environment, and actively prioritizing his children over his desire for uninhibited freedom.",
+  "cognitive_models": [
+    {
+      "situation": "Counselor asks about the pros and cons of moving in with his aunt and uncle.",
+      "automatic_thoughts": "I'm worried about losing my freedom. I'm worried about them taking over. I won't be in charge of myself anymore.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Expressing resistance and hesitating to commit to the supportive living arrangement."
+    },
+    {
+      "situation": "Reflecting on his flatmate Tristan's lifestyle and capacity to support his goals.",
+      "automatic_thoughts": "He's in a different place in his life. He doesn't have kids. He doesn't really understand what this means to me.",
+      "emotion": "sad/down/lonely/unhappy",
+      "behavior": "Acknowledging the incompatibility of his current environment with his recovery."
+    },
+    {
+      "situation": "Counselor challenges him to reconcile his desire for freedom with the risk of losing his children.",
+      "automatic_thoughts": "I don't wanna hang on to freedom if it means that I lose my kids. I'll do anything to get my kids back.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Declaring a firm commitment to his children and conceding that he must make a personal sacrifice."
+    }
+  ]
+}

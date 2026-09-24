@@ -1,0 +1,28 @@
+{
+  "life_history": "The patient is an adolescent female who presents for a brief counseling intervention following a routine screening questionnaire that indicated she consumed alcohol on at least eight days in the past year. Her primary occupational/social context revolves around peer gatherings and parties, where she engages in heavy episodic drinking (consuming 4-5 mixed drinks like vodka and orange juice or gin and tonics). The target behavior has resulted in significant negative consequences, notably blackouts (forgetting her location and the number of drinks consumed) and engaging in risky sexual behavior (unprotected sex). The precipitant to the current session was the clinical screening and the subsequent exploration of health risks, particularly the patient's fear of contracting a sexually transmitted disease (STD).",
+  "core_beliefs": "Unlovable belief",
+  "core_belief_description": "I am undesired, unwanted",
+  "intermediate_beliefs": "Positive assumption: If I engage in binge drinking at parties, then I can relax, have fun, and fit in with my friends; negative assumption: If I stop drinking, then the social awkwardness will overwhelm me and I will be rejected or left out.",
+  "intermediate_beliefs_during_depression": "If I try to limit my drinking to two drinks and fail, it proves that I am fundamentally defective, out of control, and truly have an alcohol use disorder.",
+  "coping_strategies": "Maladaptive compensatory coping includes heavy episodic drinking at social events to manage social anxiety and fit in, leading to impaired judgment, memory loss, and unprotected sex. It also includes defensiveness and avoidance when confronted with clinical labels (e.g., stating 'I don't need help from anyone' when alcohol use disorder is mentioned). Adaptive, harm-reduction coping strategies developed during the session include setting a strict limit of two drinks per party, stopping at the first sign of feeling drunk, enlisting a trusted friend to monitor her intake, and proactively talking to her partner while sober to secure a promise for mandatory condom use.",
+  "cognitive_models": [
+    {
+      "situation": "Arriving at a party where peers are socializing, mixing drinks, and consuming alcohol.",
+      "automatic_thoughts": "I need to drink to feel better about myself and fit in. It's just fun, and I like drinking when my friends are drinking too. I'll laugh more.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Consuming 4 to 5 mixed drinks (vodka or gin) throughout the party."
+    },
+    {
+      "situation": "The counselor suggests that experiencing blackouts and negative consequences from drinking could be a sign of an alcohol use disorder.",
+      "automatic_thoughts": "Well, that's not me. I don't need help from anyone. I really only drink at parties, I don't drink at home.",
+      "emotion": "angry/mad/irritated/annoyed",
+      "behavior": "Defensiveness, verbally distancing herself from the clinical label, and minimizing the scope of her drinking."
+    },
+    {
+      "situation": "Reflecting on the recent blackout where she had unprotected sex while intoxicated.",
+      "automatic_thoughts": "I definitely don't want to drink too much again. I really don't want any STDs and I don't like wondering whether I have one or not. I would have definitely told him to put on a condom if I was sober.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Rating her readiness to change as a 9 out of 10, committing to a two-drink maximum, and planning a sober conversation with her partner about condom use."
+    }
+  ]
+}

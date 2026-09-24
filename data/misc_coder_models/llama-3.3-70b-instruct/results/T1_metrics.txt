@@ -1,0 +1,32 @@
+--- T1 Counsellor Metrics ---
+Total Correct Predictions: 416 / 580 = 71.72%
+Cohen's Kappa: 0.6350
+Asymptotic Variance: 0.000563
+P-value: 0.000000000000000e+00
+
+Classification Report:
+              precision    recall  f1-score     support
+CRL            0.514170  0.841060  0.638191  151.000000
+SRL            0.967742  0.223881  0.363636  134.000000
+IMC            0.780822  0.863636  0.820144   66.000000
+IMI            1.000000  0.500000  0.666667    2.000000
+Q              0.924528  0.954545  0.939297  154.000000
+O              0.782609  0.739726  0.760563   73.000000
+accuracy       0.717241  0.717241  0.717241    0.717241
+macro avg      0.828312  0.687141  0.698083  580.000000
+weighted avg   0.793723  0.717241  0.690913  580.000000
+
+--- T1 Client Metrics ---
+Total Correct Predictions: 185 / 241 = 76.76%
+Cohen's Kappa: 0.6263
+Asymptotic Variance: 0.001927
+P-value: 0.000000000000000e+00
+
+Classification Report:
+              precision    recall  f1-score     support
+C              0.680412  0.904110  0.776471   73.000000
+S              0.763158  0.674419  0.716049   43.000000
+N              0.849057  0.720000  0.779221  125.000000
+accuracy       0.767635  0.767635  0.767635    0.767635
+macro avg      0.764209  0.766176  0.757247  241.000000
+weighted avg   0.782647  0.767635  0.767116  241.000000

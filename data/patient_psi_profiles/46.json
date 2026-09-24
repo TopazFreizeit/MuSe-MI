@@ -1,0 +1,28 @@
+{
+  "life_history": "Jacob is a teenage adolescent male who presented for a routine physical exam, during which he screened positive on an alcohol and drug questionnaire. He reports drinking 3-4 beers or mixed drinks 1-2 times a month, a pattern that began approximately six months ago (since last October). He typically drinks at parties with friends and unfamiliar peers in order to relax, feel better, and fit in. The target behavior recently escalated into negative consequences, including experiencing hangovers, vomiting, missing his first-period class, and being grounded by his mother for two weeks. The primary precipitant for his motivation to change in counseling is his frustration with these consequences, noting he is 'tired of getting in trouble.'",
+  "core_beliefs": "Unlovable belief",
+  "core_belief_description": "I am bound to be rejected",
+  "intermediate_beliefs": "Positive assumption: If I engage in drinking alcohol, then I can relax and fit in with my peers; negative assumption: If I stop drinking alcohol, then the social distress and fear of being excluded will overwhelm me.",
+  "intermediate_beliefs_during_depression": "If I try to go to a party without drinking and feel socially awkward, it proves that I cannot fit in naturally and will always be left out.",
+  "coping_strategies": "Maladaptive coping includes episodic binge drinking (3-4 drinks) to manage social anxiety and fit in around unfamiliar people, as well as minimizing the consequences of his actions ('I only missed school once'). Adaptive coping and harm-reduction plans discussed include substituting alcohol with soda (Coke) at parties, spending more time with friends who do not drink, and inviting supportive non-drinking peers to social events.",
+  "cognitive_models": [
+    {
+      "situation": "Attending a party at someone else's house with friends and unfamiliar people.",
+      "automatic_thoughts": "It's just fun to drink with my friends. I need this to help me relax and fit in with other people that we don't know. It's not a big deal.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Consumes three or four beers or rum and cokes."
+    },
+    {
+      "situation": "Waking up sick with a hangover before school.",
+      "automatic_thoughts": "I feel terrible and I am throwing up. I don't like getting sick in the mornings. I can't get out of bed.",
+      "emotion": "sad/down/lonely/unhappy",
+      "behavior": "Refuses to get out of bed, resulting in missing the first period of school."
+    },
+    {
+      "situation": "Being confronted by his mother, who grounds him for having a hangover and staying in bed.",
+      "automatic_thoughts": "She knows I have a hangover, but I only missed school once. I'm just tired of getting in trouble all the time.",
+      "emotion": "angry/mad/irritated/annoyed",
+      "behavior": "Minimizes the severity of the incident but accepts the grounding, leading to a desire to avoid further trouble."
+    }
+  ]
+}

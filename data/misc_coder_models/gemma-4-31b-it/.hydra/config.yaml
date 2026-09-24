@@ -1,0 +1,12 @@
+method: IRR
+input_dataset:
+  name: MIV6.3A
+  subset: manual
+n_conversations: 10
+annotated:
+  model: google/gemma-4-31b-it
+  context_mode: interval
+  num_context_turns: 1
+  class_structure: tiered
+  temperature: 0.0
+skip_counsellor: true

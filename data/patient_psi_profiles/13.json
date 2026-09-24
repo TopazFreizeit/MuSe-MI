@@ -1,0 +1,28 @@
+{
+  "life_history": "Mrs. Smith is a mother to a young daughter named Lilly. She presents at a medical appointment where vaccines are recommended. Recently, she has been reading information that caused her to hesitate and oppose vaccines in favor of 'natural immunity', drawing on her own childhood experience with chickenpox. Her target behavior is opposing or delaying vaccines for her daughter due to fears of making the wrong medical choice. She exhibits low motivational readiness and self-efficacy initially, but her motivation shifts rapidly toward change when the counselor educates her on the severe historical risks (paralysis, brain damage, death) of vaccine-preventable diseases like polio and measles.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am incompetent",
+  "intermediate_beliefs": "Positive assumption: If I let my child build immunity naturally, then I am keeping her safe from unnatural medical interventions; negative assumption: If I allow vaccines without being fully comfortable, then I might cause harm to my child and fail as a mother.",
+  "intermediate_beliefs_during_depression": "If I make the wrong medical decision without doing enough research, my child could be permanently harmed and it will be entirely my fault.",
+  "coping_strategies": "Maladaptive coping: Avoiding or delaying recommended medical procedures (vaccines), relying on unverified information read online, and minimizing risks by comparing serious diseases to childhood chickenpox. Adaptive coping: Discussing concerns openly with her healthcare provider, listening to and processing new medical information, and ultimately prioritizing her daughter's health and safety to make an informed choice.",
+  "cognitive_models": [
+    {
+      "situation": "The counselor informs Mrs. Smith that Lilly is scheduled to receive vaccines at the current appointment.",
+      "automatic_thoughts": "I don't know if I'm comfortable with that. I've been reading a bunch of stuff lately. It's better to let them build up their immunity naturally.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Expressing hesitation, denying immediate consent, and voicing opposition to the vaccines."
+    },
+    {
+      "situation": "The counselor reflects her belief that natural exposure might be a better choice to help her get stronger.",
+      "automatic_thoughts": "I mean, I had chickenpox as a kid, and now I'm immune. Natural exposure works fine. Why do we need these shots?",
+      "emotion": "suspicious",
+      "behavior": "Downplaying the necessity of vaccines, relying on personal anecdotes to justify her stance."
+    },
+    {
+      "situation": "The counselor explains that natural exposure to diseases like measles and polio used to cause death, paralysis, deafness, and brain damage.",
+      "automatic_thoughts": "Wow, I didn't realize it was so dangerous. I've never heard of polio. I guess it's okay, I just want her to be healthy and safe. I just want to do what's right.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Acknowledging the medical danger, shifting from precontemplation to contemplation, and agreeing to the vaccines."
+    }
+  ]
+}

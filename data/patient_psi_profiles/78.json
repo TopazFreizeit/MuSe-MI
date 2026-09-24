@@ -1,0 +1,28 @@
+{
+  "life_history": "Julie Thompson is a mother whose daughter, Sarah, suffers from severe asthma, which has resulted in five emergency room visits over the past year. The primary precipitant for the current counseling encounter is Julie picking up Sarah's rescue inhaler after having intentionally avoided refilling the child's chronic inhaler for three months. Julie has low self-efficacy regarding her own smoking habit, finding the prospect of quitting overwhelming, though she actively attempts harm-reduction strategies to protect her daughter from secondhand smoke.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am helpless",
+  "intermediate_beliefs": "Positive assumption: If I smoke outside and avoid steroid medications, then I can manage my own stress and protect my daughter from severe side effects; negative assumption: If I stop smoking or administer the steroids, then the distress of quitting will overwhelm me and my daughter will suffer health problems.",
+  "intermediate_beliefs_during_depression": "If I try to quit smoking and fail because it is too difficult and daunting, it proves I have no willpower and cannot change my habits even for my daughter.",
+  "coping_strategies": "Maladaptive coping includes avoiding the prescribed chronic inhaler out of fear of side effects and relying on smoking as a relaxation and stress-management tool. Adaptive and harm-reduction coping includes independently researching medications, strictly refusing to smoke indoors, and proactively developing a structured plan to smoke only while Sarah is at school and change clothes before she returns home.",
+  "cognitive_models": [
+    {
+      "situation": "Witnessing Sarah gasping for breath during a severe asthma flare-up.",
+      "automatic_thoughts": "It's really difficult. I hate to see her gasping for breath. I'm really worried when she has to go to the emergency room.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Rushing Sarah to the emergency room and relying heavily on the short-acting rescue inhaler."
+    },
+    {
+      "situation": "Researching the prescribed chronic inhaler and discovering it contains steroids.",
+      "automatic_thoughts": "I don't want her taking steroids. I don't want her exposed to them at all. They cause health problems and bad side effects.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Withholding the chronic inhaler medication for three months to prevent perceived harm."
+    },
+    {
+      "situation": "The counselor suggesting that quitting smoking would help improve her daughter's lung health.",
+      "automatic_thoughts": "The thought of quitting smoking is a pretty daunting aspect. I know people who've tried to quit and it's really difficult. It's very relaxing and hard to replace.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Expressing deep hesitation to quit, defending her current habits, and proposing a harm-reduction plan of changing clothes instead of absolute cessation."
+    }
+  ]
+}

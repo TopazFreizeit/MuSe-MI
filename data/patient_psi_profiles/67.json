@@ -1,0 +1,28 @@
+{
+  "life_history": "The client is a student and school basketball player who presented for a routine assessment after completing a substance use form. The form indicated marijuana use on about 30 occasions in the past year (vaping a few times a month) and occasional alcohol use. The precipitant for counseling is this routine screening. The client reports vaping marijuana primarily to relax and have fun with friends, specifically noting they use it when feeling stressed or unhappy. While minimizing the health risks of vaping, the client highly values their position on the school basketball team and worries about being suspended or kicked off the team if caught.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am helpless",
+  "intermediate_beliefs": "Positive assumption: If I engage in vaping marijuana, then I can cope/relax and escape my unhappiness; negative assumption: If I stop vaping marijuana, then the distress/conflict will overwhelm me and I will not be able to handle my stress.",
+  "intermediate_beliefs_during_depression": "If I try to change and quit vaping for basketball season and fail, it proves I have no willpower and am completely out of control.",
+  "coping_strategies": "Maladaptive coping includes vaping marijuana to manage feelings of stress or unhappiness, as well as defensively minimizing health risks (e.g., 'I don't think it's going to hurt me'). Adaptive coping and harm-reduction plans include a goal to stop vaping for at least a month when basketball season starts, recognizing that abstinence improves athletic performance and prevents suspension. The client also identified playing video games and playing basketball with their friend Sarah as healthy alternative activities to manage stress.",
+  "cognitive_models": [
+    {
+      "situation": "Experiencing stress or feeling unhappy in daily life.",
+      "automatic_thoughts": "If I'm stressed or unhappy, that's when I usually wanna vape. It makes me relax, and it's fun to laugh with my friend.",
+      "emotion": "sad/down/lonely/unhappy",
+      "behavior": "Vaping marijuana with friends."
+    },
+    {
+      "situation": "The counselor sharing medical information about how marijuana hurts the developing brain and lungs.",
+      "automatic_thoughts": "Well, I don't think it's going to hurt me. I vape, I have a pen, but I don't smoke it.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Defensively minimizing the health risks and justifying the behavior."
+    },
+    {
+      "situation": "Thinking about the possibility of getting caught with a vape pen at school.",
+      "automatic_thoughts": "I don't want to get in trouble. I could get suspended and kicked off the basketball team. I play better when I'm not high anyway.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Committing to a plan to stop using marijuana for a month when basketball season starts."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "life_history": "The client is an individual receiving medical care for ADHD who was screened for alcohol use during a routine appointment. Demographically, they present as an active, socially engaged person who currently identifies as healthy. The target behavior is regular alcohol consumption, specifically drinking 5-6 (or more) beers 2-3 days a week, primarily on weekends with friends. This pattern has been an ongoing, normalized part of their social routine. The precipitant leading to the brief counseling intervention was a routine alcohol screening form that flagged their consumption as exceeding low-risk guidelines, prompting the counselor to initiate a dialogue about binge drinking.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am incompetent",
+  "intermediate_beliefs": "Positive assumption: If I engage in drinking alcohol with friends, then I can relax, enjoy the taste, and feel socially comfortable; negative assumption: If I stop drinking alcohol, then the distress of feeling left out or different will overwhelm me.",
+  "intermediate_beliefs_during_depression": "If I try to change my drinking and fail, it proves I have no willpower, confirming my inadequacy.",
+  "coping_strategies": "The client utilizes maladaptive coping through minimization and defensiveness (e.g., 'I don't get sloppy drunk', 'I don't consider my drinking binge drinking') to protect their self-image and avoid feeling defective. They also use alcohol as a compensatory strategy to enhance social interactions. Adaptive coping emerged toward the session's end as the client engaged in contemplation, accepting a psychoeducational handout on risky drinking, reflecting on newly learned health risks, and agreeing to a 3-month follow-up assessment.",
+  "cognitive_models": [
+    {
+      "situation": "The counselor reviews the alcohol screening form and suggests that 5-6 drinks constitutes binge drinking and exceeds low-risk guidelines.",
+      "automatic_thoughts": "Are you saying I drink too much? I am healthy. It's not like I get sloppy drunk or drink every night. I have them throughout the entire evening, so it's not a problem.",
+      "emotion": "angry/mad/irritated/annoyed",
+      "behavior": "Downplays the behavior, becomes defensive (sustain talk), and argues against the clinical definition of binge drinking."
+    },
+    {
+      "situation": "Socializing with friends at a bar on the weekend and wanting to fit in and unwind.",
+      "automatic_thoughts": "I need to drink to feel good and fit in with my friends. If I don't have a few beers, I won't be able to enjoy the evening properly.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Consumes 5 to 6 (or more) beers over the course of the evening to maintain social comfort and connection."
+    },
+    {
+      "situation": "The counselor explains the long-term health risks of binge drinking, including heart disease, cancer, liver problems, and depression.",
+      "automatic_thoughts": "I didn't know about those things. I thought my drinking was perfectly fine, but what if I get sick? Now I have something serious I gotta think about.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Pauses defensiveness, expresses concern about physical health, accepts the risky drinking handout, and agrees to follow up in three months."
+    }
+  ]
+}

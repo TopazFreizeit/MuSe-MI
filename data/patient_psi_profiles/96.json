@@ -1,0 +1,28 @@
+{
+  "life_history": "Katie is a pregnant woman who was referred to counseling by her doctor due to concerns about her daily alcohol consumption. She reports a history of drinking a glass of wine at supper every night to relax with friends, viewing it as a family tradition. The primary precipitant for counseling was her doctor's intervention regarding prenatal health risks. Initially presenting in the precontemplation stage, she exhibited reactance and relied on social media anecdotes to justify her drinking, asserting her autonomy. However, her strong intrinsic motivation for maternal health, protecting her baby, and being a good parent eventually helped her transition toward a preparation stage to modify her habits.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am powerless, weak, vulnerable",
+  "intermediate_beliefs": "Positive assumption: If I engage in drinking wine daily, then I can relax and assert my independence; negative assumption: If I stop drinking just because the doctor orders me to, then the loss of autonomy and feeling of being controlled will overwhelm me.",
+  "intermediate_beliefs_during_depression": "If I try to change my drinking habits and fail, it proves I have no willpower and am an inadequate mother who is putting her baby at risk.",
+  "coping_strategies": "Maladaptive coping mechanisms include drinking a glass of wine daily to take the edge off, rationalizing her behavior by seeking out unverified Facebook articles to confirm her biases, and displaying defensiveness toward medical authority to protect her sense of autonomy. Adaptive coping and harm-reduction plans discussed in the session include taking educational brochures home, seeking collaborative support from her partner, and modifying her environment by putting alcohol completely out of sight.",
+  "cognitive_models": [
+    {
+      "situation": "Being told by her doctor that her alcohol intake is a concern during her pregnancy.",
+      "automatic_thoughts": "I am independent and I am gonna do what I want, it's my body. I don't see the evidence, it's just an old wives' tale.",
+      "emotion": "angry/mad/irritated/annoyed",
+      "behavior": "Dismissing the medical advice and looking up articles online to find arguments supporting her drinking."
+    },
+    {
+      "situation": "Having supper with friends and wanting to unwind from the day.",
+      "automatic_thoughts": "I just need to relax a little with my friends. Wine has always been a family tradition, and my friends drank during pregnancy without problems.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Drinking a glass of wine to relax and take the edge off."
+    },
+    {
+      "situation": "Reviewing the evidence-based clinical guidelines showing there is zero safe alcohol limit for pregnant women.",
+      "automatic_thoughts": "This research surprises me. I do want to do what is best for my baby. I need to get my partner's support and change our habits.",
+      "emotion": "guilty",
+      "behavior": "Making a concrete plan to take the brochure home, discuss it with her partner, and put the alcohol out of sight."
+    }
+  ]
+}

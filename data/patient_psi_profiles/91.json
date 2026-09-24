@@ -1,0 +1,28 @@
+{
+  "life_history": "Jean is a customer service representative who has smoked heavily (30 to 50 cigarettes a day) since she was 13 or 14 years old, having grown up in an environment where her parents and their friends smoked. She was diagnosed with Chronic Obstructive Pulmonary Disease (COPD) by a respirologist three months ago. The primary precipitants leading to counseling are severe coughing fits while on the phone with customers, intense fear regarding her declining physical health, and distress over premature aging (wrinkles, clogged skin) which has led her to spend a fortune on cosmetics. Despite previous failed cessation attempts using pills, patches, and therapy, her recent diagnosis has motivated her to seek help, though she struggles with deeply ingrained habits and low self-efficacy.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "\"I am helpless\" and \"I am out of control\"",
+  "intermediate_beliefs": "Positive assumption: If I engage in smoking, then I can calm my nerves, think things out, and socialize with coworkers; negative assumption: If I stop smoking, then the stress will overwhelm me and I will inevitably fail.",
+  "intermediate_beliefs_during_depression": "If I try to quit and fail again, it proves that I have no willpower and that nothing can help me unless I am physically forced and have no choice, such as when I was hospitalized.",
+  "coping_strategies": "Maladaptive compensatory behaviors include heavy chain-smoking (up to 50 cigarettes a day) to manage stress and social anxiety, masking physical deterioration with expensive cosmetics, and relying on strict external constraints (hospitalization) for temporary abstinence. Adaptive coping includes initiating counseling, seeking validation from supportive peers, utilizing verbal processing to manage emotions, and agreeing to systematically monitor her smoking habits with a tracking card to increase mindfulness and behavioral control.",
+  "cognitive_models": [
+    {
+      "situation": "Experiencing general stress at work or in daily life.",
+      "automatic_thoughts": "I will have a cigarette and think this out. It is good for my nerves. It is just an extension of me.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Reaching for a cigarette to self-soothe and artificially reduce anxiety."
+    },
+    {
+      "situation": "Experiencing coughing fits while on the telephone with customers and noticing new wrinkles in the mirror.",
+      "automatic_thoughts": "I do not feel well. I am starting to really age. This is bad for my health and it is scaring me.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Spending a fortune on cosmetics to cover up physical changes and initiating a counseling appointment."
+    },
+    {
+      "situation": "Contemplating the goal to quit smoking completely within the next six months.",
+      "automatic_thoughts": "I have a feeling I am going to fail at this point in time. I do not even have fifty percent faith in myself. I had no choice in the hospital, but nothing else has helped.",
+      "emotion": "sad/down/lonely/unhappy",
+      "behavior": "Expressing intense self-doubt, hesitating to commit to immediate cessation, and seeking further professional reassurance."
+    }
+  ]
+}

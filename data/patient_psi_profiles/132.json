@@ -1,0 +1,28 @@
+{
+  "life_history": "Mr. Green is an older adult male, a husband, father, and grandfather who works outside the home. He presents with a longstanding history of smoking, overweight, and heavy weekend alcohol consumption. He was recently precipitated into counseling due to alarming medical results revealing impaired glucose tolerance, high blood pressure, and high cholesterol. He was advised by his doctor to take lifelong medication, which initially triggered resistance. Despite his significantly low self-efficacy (score 2.2), he exhibits a medium level of problem recognition and is strongly motivated to improve his health so he can see his grandchildren grow up and avoid becoming a caregiver burden to his family.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am helpless",
+  "intermediate_beliefs": "Positive assumption: If I engage in drinking alcohol and eating pies, then I can enjoy life and cope with my day; negative assumption: If I stop my familiar habits, then the deprivation will overwhelm me and life will no longer be enjoyable.",
+  "intermediate_beliefs_during_depression": "If I try to change my lifestyle and fail to give up the things I enjoy, it proves I have no willpower, and I am inevitably destined to become a sick, helpless burden to my family.",
+  "coping_strategies": "Maladaptive coping strategies include heavy weekend alcohol consumption, comfort eating (consuming crisps and pies at work), smoking, and initial defensiveness (anticipating a 'row' to ward off perceived criticism). Adaptive, harm-reduction strategies formulated in the session include leveraging family-focused motivation, substituting pies with vegetable soup at lunch, cutting out added salt, and committing to stop drinking alcohol altogether.",
+  "cognitive_models": [
+    {
+      "situation": "Attending the lifestyle counseling session after receiving abnormal lab results and a prescription for lifelong medication.",
+      "automatic_thoughts": "I suppose you're gonna give me a row and tell me it's all self-inflicted and I've got to change my ways and give up the things I enjoy.",
+      "emotion": "angry/mad/irritated/annoyed",
+      "behavior": "Acting defensive, anticipating criticism, and expressing initial reluctance about having to take pills for the rest of his life."
+    },
+    {
+      "situation": "The counselor suggests that losing weight and eating healthier would have a major impact on his diabetes and blood pressure risks.",
+      "automatic_thoughts": "I'd love to lose weight but it's so hard giving up the things you enjoy. I really should do it. Or shouldn't I?",
+      "emotion": "sad/down/lonely/unhappy",
+      "behavior": "Engaging in sustain talk, expressing ambivalence, and hesitating to commit to the difficult effort of behavioral change."
+    },
+    {
+      "situation": "Reflecting on his wife's comments about his weekend drinking and thinking about his children and grandchildren.",
+      "automatic_thoughts": "My wife says I drink too much at the weekends. I want to be there for my family and not be a burden to them. I have to do what I need to do to improve my health.",
+      "emotion": "guilty",
+      "behavior": "Committing to actionable harm-reduction plans, including cutting out alcohol, swapping pies for vegetable soup at work, and continuing to abstain from added salt."
+    }
+  ]
+}

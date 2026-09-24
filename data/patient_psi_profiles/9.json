@@ -1,0 +1,28 @@
+{
+  "life_history": "The client is an employed adult presenting with a recent, concerning rise in blood pressure, which precipitated this medical counseling session. They report working steadily with no major recent stressful events. The client has a history of smoking (quit cold turkey 20 years ago) and recreational marijuana use in school, but avoids hard drugs and prescription medications. The target behavior is moderate-to-heavy alcohol consumption, drinking 2-3 pints of beer on weekdays and 4-5 on weekends (totaling 15-20 drinks per week), which they have maintained as a routine habit.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am helpless",
+  "intermediate_beliefs": "Positive assumption: If I engage in drinking beer, then I can cope/relax and enjoy my time off; negative assumption: If I stop drinking beer, then the distress/conflict will overwhelm me and I won't have a way to unwind.",
+  "intermediate_beliefs_during_depression": "If I try to change my drinking and fail, it proves I have no willpower and my health problems are inevitable.",
+  "coping_strategies": "Maladaptive coping includes routine heavy alcohol use (15-20 drinks per week) and defensive minimization of health risks ('my pressure has been high for years'). Adaptive coping includes successfully quitting smoking cold turkey 20 years ago, abstaining from hard drugs, avoiding unnecessary prescription pills (e.g., Percocet), and maintaining steady employment.",
+  "cognitive_models": [
+    {
+      "situation": "Finishing a routine workday or going out on the weekend.",
+      "automatic_thoughts": "I've been working steady and I'm glad to have a job. I deserve to relax and have a few pints.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Goes to the bar and drinks 2 to 5 pints of beer."
+    },
+    {
+      "situation": "The counselor points out that 15 to 20 drinks a week is too much and is contributing to the client's high blood pressure.",
+      "automatic_thoughts": "My pressure has been high for years. It's not just the alcohol. You're exaggerating the problem.",
+      "emotion": "angry/mad/irritated/annoyed",
+      "behavior": "Responds defensively, minimizing the impact of alcohol on their health (sustain talk)."
+    },
+    {
+      "situation": "The counselor explains the dangerous effects of alcohol on the liver and suggests decreasing the number of drinks and bar visits.",
+      "automatic_thoughts": "Maybe there is a connection. I quit smoking cold turkey before, so I guess I should try to cut back on the beer.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Expresses tentative agreement ('I guess I'll try') and agrees to follow up in a month."
+    }
+  ]
+}

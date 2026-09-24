@@ -1,0 +1,34 @@
+{
+  "life_history": "Katie is a first-generation college student attending school on an academic scholarship. She is highly involved on campus, including participation on the debate team, which brings significant performance pressure. She reports a lifelong history of being an 'anxious person.' The transition to college has been overwhelming for her, leading her to feel 'in a bit over my head' and out of place among her financially stable peers. To manage her academic stress and to cope with feelings of inadequacy around her seemingly more 'sophisticated' classmates, she has been using marijuana a couple of times a week. Financial limitations and a lack of family support for mental health (viewing counseling as 'for crazy people') compound her stress. She initially presented to a clinic for a birth control prescription but was flagged for marijuana use on a healthy habits questionnaire, precipitating this counseling interaction.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am incompetent, I am powerless, weak, vulnerable",
+  "intermediate_beliefs": "Positive assumption: If I engage in smoking marijuana, then I can relax, calm my nerves, and fit in with my sophisticated peers; negative assumption: If I stop smoking marijuana, then the academic pressure and social anxiety will overwhelm me.",
+  "intermediate_beliefs_during_depression": "If I seek professional help for my anxiety, it means I am 'crazy' and will bring shame to my family. If my parents find out about my struggles or drug use, I will be rejected and punished. If I cannot afford my own things and have to bum them off others, it proves I am inadequate and inferior.",
+  "coping_strategies": "Maladaptive coping strategies include smoking marijuana multiple times a week to regulate her generalized anxiety and academic stress. She also uses marijuana socially as a crutch to mask feelings of inadequacy and attempts to 'fit in' with peers. She exhibits defensive behaviors by initially downplaying her drug use ('not a big deal') and avoids seeking proper mental health treatment due to internalized family stigma and financial concerns. Her adaptive coping and secondary harm-reduction attempts include maintaining high academic standing despite the stress, and ultimately demonstrating openness to alternative coping mechanisms by agreeing to visit the college counseling center after establishing that it is free and strictly confidential.",
+  "cognitive_models": [
+    {
+      "situation": "Trying to balance the heavy workload of an academic scholarship, the debate team, and being a first-generation college student.",
+      "automatic_thoughts": "I'm in a bit over my head. I've always been an anxious person. Pot just helps me calm my nerves.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Smokes marijuana a couple of times a week to relax and self-medicate."
+    },
+    {
+      "situation": "Socializing and partying with college peers who appear more affluent and experienced.",
+      "automatic_thoughts": "Some of these kids are just so much more sophisticated than me. I guess when I party with them, I feel like I'm fitting in. I'm trying to fit in by using it.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Smokes marijuana socially to reduce feelings of social inadequacy."
+    },
+    {
+      "situation": "Wanting to smoke marijuana to cope with stress but having no personal money to buy it.",
+      "automatic_thoughts": "I don't have the money for it. I just usually bum it off my roommate, her parents give her a lot of spending money. It's kind of embarrassing to have to do that.",
+      "emotion": "ashamed/humiliated/embarrassed",
+      "behavior": "Bums marijuana off her roommate despite feeling humiliated."
+    },
+    {
+      "situation": "The counselor suggests talking to a professional about her lifelong anxiety.",
+      "automatic_thoughts": "We don't do that kind of thing in my family. It's just not done. It's something for crazy people and we definitely do not have the money for it. My parents wouldn't approve.",
+      "emotion": "ashamed/humiliated/embarrassed",
+      "behavior": "Initially hesitates, doubts the feasibility of counseling, and dismisses the referral."
+    }
+  ]
+}

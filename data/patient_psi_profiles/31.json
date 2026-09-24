@@ -1,0 +1,28 @@
+{
+  "life_history": "Mr. Johnson is a truck driver who was recently diagnosed with high cholesterol. He presented to a pharmacist with significant hesitation regarding his newly prescribed cholesterol-lowering medication. His occupational demands involve heavy physical labor, specifically hauling heavy boxes on a dolly. The precipitant to his reluctance is the doctor's warning about muscle weakness as a potential side effect, which threatens his current livelihood. He is married and highly motivated by his plan to retire in 4 to 5 years and travel actively to places like the Fjords in Norway.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am powerless, weak, vulnerable",
+  "intermediate_beliefs": "Positive assumption: If I avoid taking the cholesterol medication, then I can protect my muscle strength and keep working; negative assumption: If I take the medication, then I will develop muscle weakness, lose my livelihood as a truck driver, and be unable to support myself.",
+  "intermediate_beliefs_during_depression": "If my health declines or I develop unmanageable side effects, it proves I have no control over my body and my dreams of an active retirement will be permanently ruined.",
+  "coping_strategies": "Maladaptive coping includes treatment avoidance (initially intending to refuse prescribed medication due to fear of occupational impairment). Adaptive coping includes openly discussing his side-effect concerns with the pharmacist, engaging in psychoeducation to evaluate long-term health risks versus short-term side effects, and committing to future dietary lifestyle changes to further manage his cholesterol.",
+  "cognitive_models": [
+    {
+      "situation": "The doctor prescribes cholesterol medication and warns about potential muscle weakness as a side effect.",
+      "automatic_thoughts": "I'm not so certain I'm even gonna take the medicine. I'm a truck driver and I got a haul heavy boxes out of the truck on a dolly. I can't afford muscle weakness right now.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Opposing taking the medicine and expressing treatment reluctance to the pharmacist."
+    },
+    {
+      "situation": "The pharmacist prompts him to discuss the long-term elevated risks of untreated high cholesterol, specifically stroke and heart attack.",
+      "automatic_thoughts": "Having a stroke or a heart attack would really be bad. My wife and I want to retire in four to five years and visit The Fjords, Norway. We want to live our dreams actively.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Engaging in change talk and acknowledging the severity of leaving the condition untreated."
+    },
+    {
+      "situation": "The pharmacist points out that a stroke could cause paralysis, directly threatening his physical capabilities and future retirement plans.",
+      "automatic_thoughts": "I don't wanna be crippled by a stroke or a heart attack. Taking the medicine sounds like the end of the game right now.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Committing to the medication regimen to prevent physical impairment."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "life_history": "Bob is a working professional who has been smoking his entire life. He has been married for over 25 years and has two children (a son and a daughter). Six months ago, his wife quit smoking, started a 'health kick,' and began relentlessly pressuring him to quit, with their children joining in. This has caused significant family conflict, leaving Bob feeling isolated and nagged. He downplays the health risks (noting his 85-year-old father still smokes) but reluctantly took time off work to attend counseling because he fears losing his marriage and family. His motivational readiness and self-efficacy are currently low.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "\"I am trapped\", \"I am incompetent\"",
+  "intermediate_beliefs": "Positive assumption: If I engage in smoking, then I can cope with stress and maintain my lifelong routine; negative assumption: If I stop smoking abruptly, then the withdrawal and distress will overwhelm me and I will fail.",
+  "intermediate_beliefs_during_depression": "If I try to quit for my family and fail, it proves I am incompetent and I will inevitably lose my marriage anyway.",
+  "coping_strategies": "Maladaptive coping includes defensiveness, avoiding the core issue by blaming his wife (calling her 'holier than thou'), downplaying health risks ('my dad's 85, he still smokes'), and continuing to smoke to manage distress. Secondary harm-reduction attempts include accommodating his family by smoking outside in bad weather, exploring gradual tapering or medications, and planning to bring his wife to a future session to mediate expectations.",
+  "cognitive_models": [
+    {
+      "situation": "Wife presenting newspaper articles about second-hand smoke as a 'reading assignment' at breakfast.",
+      "automatic_thoughts": "She is relentless and nagging me every day. She used to smoke more than me and now she's acting holier than thou. Everyone who smokes is evil to her now.",
+      "emotion": "angry/mad/irritated/annoyed",
+      "behavior": "Becoming defensive, feeling resentful, and begrudgingly going outside in the cold weather to smoke alone."
+    },
+    {
+      "situation": "Son and daughter joining the wife in criticizing his smoking habit.",
+      "automatic_thoughts": "They are ganging up on me. I'm being isolated and forced into a corner. I don't want to lose my family over this, but I don't know if I have the ability to quit.",
+      "emotion": "sad/down/lonely/unhappy",
+      "behavior": "Feeling alienated, expressing self-doubt (low self-efficacy), and reluctantly attending therapy just to appease them."
+    },
+    {
+      "situation": "Facing the expectation from his wife to quit smoking abruptly ('cold turkey').",
+      "automatic_thoughts": "I've been smoking all my life. I don't know if I can just stop right away. I need a middle ground or gradual approach, otherwise I won't succeed.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Seeking a compromise through gradual tapering/medication and requesting to bring his wife to a session so the counselor can adjust her immediate expectations."
+    }
+  ]
+}

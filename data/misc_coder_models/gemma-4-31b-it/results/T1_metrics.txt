@@ -1,0 +1,14 @@
+--- T1 Client Metrics ---
+Total Correct Predictions: 205 / 241 = 85.06%
+Cohen's Kappa: 0.7627
+Asymptotic Variance: 0.001332
+P-value: 0.000000000000000e+00
+
+Classification Report:
+              precision    recall  f1-score     support
+C              0.774194  0.986301  0.867470   73.000000
+S              0.804348  0.860465  0.831461   43.000000
+N              0.941176  0.768000  0.845815  125.000000
+accuracy       0.850622  0.850622  0.850622    0.850622
+macro avg      0.839906  0.871589  0.848249  241.000000
+weighted avg   0.866183  0.850622  0.849813  241.000000

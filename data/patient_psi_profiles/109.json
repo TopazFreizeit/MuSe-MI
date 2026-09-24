@@ -1,0 +1,28 @@
+{
+  "life_history": "The client is an employed individual who presented for a routine dental check-up, precipitating the counseling session when the dentist discovered 'nicotinic stomatitis' (damage to the roof of the mouth). The client considers themselves a non-smoker, having never smoked traditional cigarettes, but admits to a recent escalation in smoking flavored cigarillos ('Swisher Sweets'). Initially starting as an occasional social activity at bars and on trips to Las Vegas, the behavior has recently become a daily routine to socialize with coworkers during breaks. The client is financially conscious and has noticed recent aesthetic changes (teeth staining) and increased expenses due to their escalating tobacco use.",
+  "core_beliefs": "Unlovable belief",
+  "core_belief_description": "I am bound to be rejected",
+  "intermediate_beliefs": "Positive assumption: If I engage in smoking cigarillos with my friends and coworkers, then I can relax, fit in, and connect with them socially; negative assumption: If I stop smoking and don't join them on breaks, then I will be left out and socially isolated.",
+  "intermediate_beliefs_during_depression": "If I try to quit smoking and end up losing my social connections at work, it proves I am fundamentally uninteresting and only valued when I conform to what others are doing.",
+  "coping_strategies": "Maladaptive coping includes minimizing and rationalizing the risk of tobacco use (e.g., distinguishing 'cute' cigarillos from cigarettes, viewing it as purely a sophisticated social activity, and ignoring the daily frequency). Adaptive coping includes openly considering the new medical feedback, asking about teeth whitening to address aesthetic concerns, and actively requesting information on cessation medications and support programs to quit comfortably.",
+  "cognitive_models": [
+    {
+      "situation": "The dentist points out irritation and damage on the roof of the mouth (nicotinic stomatitis).",
+      "automatic_thoughts": "That sounds bad. But I don't smoke cigarettes! I only have little cigarillos when I go out with friends. It's not a habit or something I have to have, so it can't be causing this.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Defensively downplaying the tobacco use, minimizing the quantity, and trying to differentiate their habit from 'real' smoking."
+    },
+    {
+      "situation": "Coworkers go outside to the break area to socialize and smoke.",
+      "automatic_thoughts": "It's nice to be with people and relax. If I stay inside, I'll miss out on the bonding. I'll just have a peach-flavored Swisher Sweet; they're cute and it's mostly a social thing.",
+      "emotion": "sad/down/lonely/unhappy",
+      "behavior": "Following coworkers outside and smoking a cigarillo on a daily basis to be part of the group."
+    },
+    {
+      "situation": "Reflecting on the financial cost of buying more cigarillos and the health warning from the dentist.",
+      "automatic_thoughts": "I have to be careful about my money with the economy. I also noticed my teeth have more stains than a few years ago. I didn't even know I was a smoker, and I definitely don't want to develop lung cancer.",
+      "emotion": "disappointed",
+      "behavior": "Expressing high motivation to change, asking about teeth whitening, and requesting information on medications to assist with quitting."
+    }
+  ]
+}

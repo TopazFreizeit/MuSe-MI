@@ -1,0 +1,28 @@
+{
+  "life_history": "Sandra is a working mother who has been smoking since she was young. Her smoking is deeply ingrained in her daily routine, serving as a social outlet at work, a weight-management tool, and a stress reliever. She presented for counseling opportunistically while her 12-year-old daughter was admitted to the hospital. Currently, Sandra's life feels 'in turmoil,' contributing to a very low sense of self-efficacy (1.8) regarding smoking cessation, despite her recognizing the problem and feeling distressed about being a 'bad role model' as her daughter's friends have started experimenting with smoking.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am a failure, a loser",
+  "intermediate_beliefs": "Positive assumption: If I engage in smoking, then I can relax, manage my weight, and connect with coworkers; negative assumption: If I stop smoking, then the stress of my life will overwhelm me, I will gain weight, and I will be left out socially.",
+  "intermediate_beliefs_during_depression": "If I try to quit right now while my life is in turmoil and I fail, it will just prove that I can't cope with anything and that I really am a bad parent.",
+  "coping_strategies": "Maladaptive coping includes using smoking to alleviate daily stress, suppress appetite, and secure social inclusion at work, as well as avoiding immediate change due to feeling overwhelmed (sustain talk). Adaptive coping/harm reduction attempts include engaging in the counseling session, reflecting on the impact her behavior has on her daughter, and agreeing to complete a psychoeducational homework booklet on the pros and cons of changing.",
+  "cognitive_models": [
+    {
+      "situation": "Smoking outside and looking up to see her 12-year-old daughter watching her from the window.",
+      "automatic_thoughts": "I'm being a bad parent. I'm a bad role model. I don't want her to start smoking, but this is projecting the wrong plan.",
+      "emotion": "guilty",
+      "behavior": "Experiences cognitive dissonance and feels terrible, but does not immediately extinguish the cigarette; internalizes the conflict."
+    },
+    {
+      "situation": "Being at the hospital because her daughter is admitted, alongside the counselor asking about quitting.",
+      "automatic_thoughts": "My life is too much in turmoil. It seems so hard to quit. I'm just not ready for this right now.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Engages in sustain talk, refuses to set a quit date, and defers making an immediate behavioral change."
+    },
+    {
+      "situation": "Colleagues at work go outside to smoke and chit chat.",
+      "automatic_thoughts": "I would hate to not smoke. I'd be left out. I need this to relieve stress and be part of the group.",
+      "emotion": "sad/down/lonely/unhappy",
+      "behavior": "Goes outside with coworkers, smokes, and socializes to avoid isolation."
+    }
+  ]
+}

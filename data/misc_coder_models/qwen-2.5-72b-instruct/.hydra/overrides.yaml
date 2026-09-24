@@ -1,0 +1,7 @@
+- method=IRR
+- input_dataset.name=MIV6.3A
+- input_dataset.subset=manual
+- annotated.model=qwen/qwen-2.5-72b-instruct
+- skip_counsellor=True
+- annotated.context_mode=interval
+- annotated.num_context_turns=1

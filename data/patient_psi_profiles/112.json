@@ -1,0 +1,28 @@
+{
+  "life_history": "Chris is an honors student and star athlete who comes from a strict family environment where his parents kept him heavily sheltered from social activities. He describes himself as naturally reserved and highly self-conscious. About a month ago, peer pressure and a desire to socialize led him to attend a party where he began drinking alcohol to cope with his social anxiety. The precipitant to counseling was a recent weekend incident where he deceived his mother to attend another party, drank vodka, and was immediately caught upon pickup, resulting in a severe breach of trust. Additionally, his Athletic Director (the counselor) initiated the session after hearing rumors about Chris's recent involvement in the party scene.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am incompetent",
+  "intermediate_beliefs": "Positive assumption: If I engage in drinking alcohol, then I can relax and overcome my self-consciousness; negative assumption: If I stop drinking alcohol, then the social anxiety and awkwardness will overwhelm me and I will remain isolated.",
+  "intermediate_beliefs_during_depression": "If I try to change my behavior and fail to regain my mother's trust, it proves I am a complete failure and lack the willpower to succeed.",
+  "coping_strategies": "Maladaptive coping strategies include drinking alcohol to loosen up in social environments, deceiving his parents to attend parties, and mentally checking out of his academics (resulting in lethargy and apathy). Adaptive coping and harm-reduction plans discussed in the session include committing to a maximum limit of zero to one drink for social convention, refocusing his energy on studies and athletics, and actively working to rebuild his mother's trust.",
+  "cognitive_models": [
+    {
+      "situation": "Attending a social party with peers after being strictly sheltered by his parents.",
+      "automatic_thoughts": "I'm very self-conscious and reserved. I can't talk to anyone naturally, but if I drink this alcohol, it will relax me so I can engage with other people more easily.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Drinking alcohol to loosen up and socializing with a new peer group."
+    },
+    {
+      "situation": "Stepping into his mother's car after a party where he drank vodka, breaking his explicit promise to her.",
+      "automatic_thoughts": "I betrayed my mother and completely broke her trust. I have no excuse for what I just did.",
+      "emotion": "ashamed/humiliated/embarrassed",
+      "behavior": "Looking down at the floor, remaining silent, and freezing up upon confrontation."
+    },
+    {
+      "situation": "Reflecting on how his new partying habits have alienated his original group of friends.",
+      "automatic_thoughts": "I'm just living life, but it's really not fair to my old friends that I'm not there for them as much as they have been there for me.",
+      "emotion": "guilty",
+      "behavior": "Feeling interpersonal tension and contemplating stopping his alcohol use to restore his values and relationships."
+    }
+  ]
+}

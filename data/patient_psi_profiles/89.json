@@ -1,0 +1,28 @@
+{
+  "life_history": "The patient is a married, employed male working at a specialized shop ('the only shop in town'). He presents to counseling primarily due to an ultimatum from his wife regarding his daily marijuana use, which he initially did not view as problematic. The primary precipitants for treatment are escalating marital conflict and the recent realization that he likely failed a workplace urinalysis (UA). The patient fears losing his job, which he believes will cause a cascading failure leading to financial ruin (losing his house) and his wife abandoning him. His motivational readiness and self-efficacy are low, but the external pressure of job loss has shifted him from precontemplation toward preparation.",
+  "core_beliefs": "Helpless belief",
+  "core_belief_description": "I am helpless",
+  "intermediate_beliefs": "Positive assumption: If I engage in smoking weed, then I can relax and avoid thinking about my stress; negative assumption: If I stop smoking weed, then the distress of work and my marriage will overwhelm me and I will not know how to cope.",
+  "intermediate_beliefs_during_depression": "If I lose my job because of my drug use, it proves I am a failure, my wife will leave me, and I will lose everything.",
+  "coping_strategies": "Maladaptive coping includes smoking marijuana daily to avoid thinking about problems, downplaying the severity of his use, and using adulterants ('stuff that was not my system') to cheat a drug test. Adaptive/harm-reduction coping includes agreeing to attend counseling, asking for new stress-management strategies without getting high, and formulating a plan to speak honestly with his boss to take steps to save his job.",
+  "cognitive_models": [
+    {
+      "situation": "Arriving home after a long, stressful day at work.",
+      "automatic_thoughts": "I just need to smoke a couple rolls to unwind. I'm working and paying the bills, so it's not a problem. It helps me not really think about things.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Smokes marijuana to relax, disconnect, and numb his stress."
+    },
+    {
+      "situation": "Wife confronting him and nagging about his daily weed smoking.",
+      "automatic_thoughts": "She just won't get off my back about it. I don't know why it's a problem when I provide for us and we have a house. Fine, I'll go see someone just to get her to stop.",
+      "emotion": "angry/mad/irritated/annoyed",
+      "behavior": "Argues with his wife, defends his substance use (sustain talk), but eventually complies with attending counseling to appease her."
+    },
+    {
+      "situation": "Realizing he failed the workplace urinalysis (UA).",
+      "automatic_thoughts": "I'm gonna get fired and I don't know what else I'm gonna go do since we're the only shop in town. If I lose my job, I'll lose the house and my wife will leave me.",
+      "emotion": "anxious/worried/fearful/scared/tense",
+      "behavior": "Worries intensely, attempts to use synthetic urine to pass the test, and subsequently decides to preemptively speak with his boss to salvage his employment."
+    }
+  ]
+}
