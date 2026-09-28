@@ -9,6 +9,14 @@ Official repository and evaluation benchmark for **MuSe-MI** (*Multiple Sessions
 
 ---
 
+## Contact
+
+If you have questions, encounter bugs, or need help reproducing the results:
+- Please open an **Issue** in this repository (preferred).
+- You can also reach out to Topaz at `topaz.freizeit@post.runi.ac.il`.
+
+---
+
 ## 📌 Overview
 
 **MuSe-MI** introduces a clinically grounded multi-session patient simulation framework that:
@@ -97,15 +105,7 @@ python evaluation/src_automisc/run_batch_coder.py --input_transcripts ./results/
 ## 📑 Citation
 
 If you use MuSe-MI or AutoMISC in your research, please cite our paper:
-
-```bibtex
-@inproceedings{freizeit2026musemi,
-  title     = {MuSe-MI: A Framework for Assessing Multi-Session Motivational Interviewing with AI-Generated Patients},
-  author    = {Freizeit, Topaz and Zisquit, Moreah and Hashiloni, Kai Golan and Tavens, Chaitze and Friedman, Doron and Bar, Kfir},
-  booktitle = {Findings of the Association for Computational Linguistics: AACL-IJCNLP 2026},
-  year      = {2026}
-}
-```
+TBD
 
 ---
 
