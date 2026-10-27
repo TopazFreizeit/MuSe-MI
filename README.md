@@ -50,8 +50,11 @@ If you have questions, encounter bugs, or need help reproducing the results:
 ├── data/                              # Patient Personas & Clinical Grounding
 │   ├── patient_profiles/              # 30 AnnoMI-grounded Patient Personas for MuSeMI
 │   ├── patient_psi_profiles/          # CBT-adapted Profiles for Patient-Ψ
+│   └── simulations-transcripts.zip    # Full Multi-session Simulation Transcripts (30 patients × 3 MIIN tiers)
 |── run_therapy.py                     # Single-cohort Multi-session Simulation Entrypoint
 ```
+
+**Simulation Transcripts:** `data/simulations-transcripts.zip` contains the full simulation transcripts of the 30 MuSe-MI simulated patients interacting with 3 MI AI therapists that differ in their count of adversarial MI-inconsistent (MIIN) interventions ($0$, $3$, and $6$ MIIN).
 
 ---
 
